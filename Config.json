@@ -1,0 +1,20 @@
+{
+  "prefix":">",
+  "logs_channels":[],
+  "data_file":"./Data/Data_Storage.json",
+  "embed_color":16777215,
+  "footer_text":"EXAMPLE FOOTER TEXT",
+  "carts_original_channel":"000000000000000000000",
+  "carts_formatted_channel":"000000000000000000000",
+  "adi_table":"AdidasCarts",
+  "latch_table":"LatchCarts",
+  "phantom_table":"PhantomCarts",
+  "balko_table":"BalkoCarts",
+  "TOKEN":"YOUR_TOKEN_HERE",
+  "database_ip":"YOUR IP",
+  "database_username":"YOUR USERNAME",
+  "database_password":"YOUR PASSWORD",
+  "database_name":"DATABSE NAME",
+  "footer_icon_url":"URL HERE",
+  "online_message":"Carts Manager Online!"
+}
