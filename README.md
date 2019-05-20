@@ -9,7 +9,7 @@ This program is designed for the sneaker discord community to manage the various
 
 # Setup Tutorials
 - [MySQL Database Setup](https://youtu.be/aEm0BN493sU)
-- [Discord Carts Manager Bot Setup](https://www.youtube.com/watch?v=WB15x3NKQv4)
+- [Discord Carts Manager Bot Setup]()
 
 # Direct Support
 For more support, message me on Discord at:
